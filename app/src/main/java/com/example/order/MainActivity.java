@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
                 quantity.setText(nquantity.toString());
             }
         });
-
+    //setting the onclicklistener
         dec.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
